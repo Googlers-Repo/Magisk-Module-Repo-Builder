@@ -1,12 +1,12 @@
 [coa]: https://github.com/Googlers-Magisk-Repo/common-on-android
 [termux]: https://github.com/termux/termux-app
 
-# Maigsk Module Repo Builder
+# Magisk Module Repo Builder
 
 Clone the repo
 
 ```bash
-git clone https://github.com/Googlers-Magisk-Repo/Maigsk-Module-Repo-Builder.git
+git clone https://github.com/Googlers-Magisk-Repo/Magisk-Module-Repo-Builder.git
 ```
 
 ```bash
@@ -15,7 +15,7 @@ cd Magisk-Module-Repo-Builder
 bash build.sh
 ```
 
-## Bulding on mobile
+## Building on mobile
 
 You need the [Common on Android][coa] module, it also reqiures the `zip` binary that reqiures [Termux][termux]. Just follow the Readme at [CoA][coa] module
 
