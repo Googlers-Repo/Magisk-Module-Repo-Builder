@@ -17,9 +17,7 @@ bash build.sh
 
 ## Building on mobile
 
-You need the [Common on Android][coa] module, it also reqiures the `zip` binary that reqiures [Termux][termux]. Just follow the Readme at [CoA][coa] module
-
-Otherwise can you use just use only [Termux][termux]
+You need [Termux][termux] to build on mobile
 
 # Credits
 
